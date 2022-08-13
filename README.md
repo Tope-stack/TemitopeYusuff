@@ -34,6 +34,6 @@ Techonologies I currently work with
  ### Connect with me on
 
  <p align="left">
-  <a href = "https://www.linkedin.com/in/temitope-yusuff-07731717b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "https://twitter.com/Tope__Y"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href = "https://www.linkedin.com/in/temitope-yusuff-07731717b/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href = "https://twitter.com/Tope__Y" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
