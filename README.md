@@ -1,5 +1,11 @@
-Hi My name is Yusuff Temitope
-=============================
+Helllo
+======
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+My name is Yusuff Temitope
+=========================
 
 Techonologies I currently work with
 
