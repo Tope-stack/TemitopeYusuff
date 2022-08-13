@@ -3,12 +3,13 @@ Hi My name is Yusuff Temitope
 
 Techonologies I currently work with
 
+- PYTHON 
+- DJANGO
 - HTML5
 - CSS 3
 - BOOTSTRAP
 - JAVASCRIPT
-- PYTHON 
-- DJANGO
+
 
 <br>
 
