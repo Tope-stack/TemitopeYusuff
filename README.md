@@ -23,7 +23,7 @@ Techonologies I currently work with
  </p>
 
  - I am currently learning Python(Flask)
- - I am currently working on [qrplanet.io] 
+ - I am currently working on [qr-teams.herokuapp.com] 
  - I am open to frontend and backend internship roles
  - Lookin to collaborate with other developers to work on more projects
  - You can contact me at [yusufftope70@gmail.com](mailto:yusufftope70@gmail.com)
