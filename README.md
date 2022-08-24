@@ -35,7 +35,7 @@ Techonologies I currently work with
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tope-stack&langs_count=10&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=000000&color=FF0000" style="width:100%">
 
- https://github-readme-streak-stats.herokuapp.com/?user=tope-stack&theme=react
+ 
 
  
  
