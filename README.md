@@ -36,6 +36,10 @@ Techonologies I currently work with
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tope-stack&langs_count=10&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=000000&color=FF0000" style="width:100%">
 
  
+ ---
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=tope-stack&show_icons=true&include_all_commits=true&hide_border=true" alt="Tope's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tope-stack&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| ------------- | ------------- |
 
  
  
