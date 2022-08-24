@@ -37,7 +37,7 @@ Techonologies I currently work with
 
  <img src="https://activity-graph.herokuapp.com/graph?username=Tope-stack&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true">
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tope-stack)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
  ### Connect with me on
 
