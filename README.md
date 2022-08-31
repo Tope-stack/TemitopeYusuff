@@ -15,6 +15,7 @@ Techonologies I currently work with
 - CSS 3
 - BOOTSTRAP
 - JAVASCRIPT
+- Vue.js
 
 
 <br>
