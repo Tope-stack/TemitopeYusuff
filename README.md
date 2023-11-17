@@ -23,7 +23,6 @@ Techonologies I currently work with
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tope-stack&label=Profile%20Views&color=0e75b6&style=flat" alt="temitope" />
  </p>
 
- - I am open to backend internship roles
  - Lookin to collaborate with other developers to work on more projects
  - You can contact me at [yusufftope70@gmail.com](mailto:yusufftope70@gmail.com)
 
